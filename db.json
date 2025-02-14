@@ -1,0 +1,304 @@
+{
+  "users": [
+    {
+      "username": "sahasra",
+      "password": "324",
+      "balance": 5000,
+      "expenses": [],
+      "id": "1"
+    },
+    {
+      "username": "sahas@gmail.com",
+      "password": "123",
+      "balance": 1000,
+      "expenses": [],
+      "id": "2"
+    },
+    {
+      "username": "sahasra",
+      "password": "123",
+      "balance": 1001,
+      "expenses": [
+        {
+          "name": "grocery",
+          "amount": 100,
+          "quantity": 4,
+          "userId": "3",
+          "id": "3f9b"
+        }
+      ],
+      "id": "3"
+    },
+    {
+      "username": "sahasra",
+      "password": "1234",
+      "balance": 30000,
+      "expenses": [],
+      "id": "4"
+    },
+    {
+      "username": "sahasra",
+      "password": "1234",
+      "balance": 20000,
+      "expenses": [],
+      "id": "5"
+    },
+    {
+      "username": "sahasra",
+      "password": "1234",
+      "balance": 20000,
+      "expenses": [],
+      "id": "6"
+    },
+    {
+      "username": "shasra",
+      "password": "1234",
+      "balance": 20000,
+      "expenses": [],
+      "id": "7"
+    },
+    {
+      "id": "e614",
+      "username": "heman",
+      "password": "123",
+      "balance": 500,
+      "expenses": [
+        {
+          "id": "2872",
+          "name": "Title",
+          "amount": 500,
+          "quantity": 1,
+          "userId": "e614"
+        }
+      ]
+    },
+    {
+      "id": "3ec7",
+      "username": "heman",
+      "password": "123",
+      "balance": "1000",
+      "expenses": []
+    },
+    {
+      "id": "8979",
+      "username": "sahasra",
+      "password": "100",
+      "balance": "200",
+      "expenses": []
+    },
+    {
+      "id": "7255",
+      "username": "Sanjay",
+      "password": "123",
+      "balance": "200000",
+      "expenses": []
+    },
+    {
+      "id": "d2e4",
+      "username": "sanjay",
+      "password": "123",
+      "balance": "200000",
+      "expenses": []
+    },
+    {
+      "id": "a2c7",
+      "username": "qw",
+      "password": "12",
+      "balance": "1000",
+      "expenses": []
+    },
+    {
+      "id": "fd9c",
+      "username": "abhilash",
+      "password": "123",
+      "balance": "1000",
+      "expenses": []
+    },
+    {
+      "id": "30ce",
+      "username": "sahasra",
+      "password": "123",
+      "balance": "1000",
+      "expenses": []
+    },
+    {
+      "id": "7d3d",
+      "username": "sanju",
+      "password": "sanju@3",
+      "balance": "200",
+      "expenses": [
+        {
+          "id": "4c3b",
+          "name": "poha",
+          "amount": 50,
+          "quantity": 1,
+          "userId": "7d3d"
+        }
+      ]
+    },
+    {
+      "username": "lahari",
+      "password": "1234",
+      "balance": "50000",
+      "expenses": [],
+      "id": "0MzXWcK"
+    },
+    {
+      "username": "lahari",
+      "password": "123",
+      "balance": "2000",
+      "expenses": [],
+      "id": "4F_oe6Q"
+    },
+    {
+      "username": "lahari",
+      "password": "1995",
+      "balance": "5000",
+      "expenses": [
+        {
+          "name": "food",
+          "amount": 100,
+          "quantity": 5,
+          "userId": "ULlfmwM",
+          "id": "Miy_KoA"
+        },
+        {
+          "name": "clothes",
+          "amount": 500,
+          "quantity": 2,
+          "userId": "ULlfmwM",
+          "id": "DUmjsV5"
+        }
+      ],
+      "id": "ULlfmwM"
+    },
+    {
+      "username": "lahari",
+      "password": "123",
+      "balance": "4000",
+      "expenses": [],
+      "id": "4K5DzBA"
+    },
+    {
+      "username": "sravya",
+      "password": "123",
+      "balance": "5000",
+      "expenses": [],
+      "id": "b7MWZw3"
+    }
+  ],
+  "expenses": [
+    {
+      "id": "2872",
+      "name": "Title",
+      "amount": 500,
+      "quantity": 1,
+      "userId": "e614"
+    },
+    {
+      "id": "06a3",
+      "name": "car",
+      "amount": 200,
+      "quantity": 1,
+      "userId": "e614"
+    },
+    {
+      "id": "5d60",
+      "name": "milk",
+      "amount": 35,
+      "quantity": 5,
+      "userId": "a2c7"
+    },
+    {
+      "id": "a0df",
+      "name": "grocery",
+      "amount": 100,
+      "quantity": 2,
+      "userId": "fd9c"
+    },
+    {
+      "id": "a3d6",
+      "name": "gr",
+      "amount": 100,
+      "quantity": 2,
+      "userId": "3"
+    },
+    {
+      "id": "2229",
+      "name": "grocery",
+      "amount": 100,
+      "quantity": 2,
+      "userId": "3"
+    },
+    {
+      "id": "f330",
+      "name": "fhj",
+      "amount": 10,
+      "quantity": 2,
+      "userId": "3"
+    },
+    {
+      "id": "d2d7",
+      "name": "sahasra",
+      "amount": 200,
+      "quantity": 1,
+      "userId": "3"
+    },
+    {
+      "id": "4c3b",
+      "name": "poha",
+      "amount": 50,
+      "quantity": 1,
+      "userId": "7d3d"
+    },
+    {
+      "name": "grocery",
+      "amount": 100,
+      "quantity": 4,
+      "userId": "3",
+      "id": "3f9b"
+    },
+    {
+      "name": "food",
+      "amount": 100,
+      "quantity": 2,
+      "userId": "0MzXWcK",
+      "id": "tFgfBKK"
+    },
+    {
+      "name": "food",
+      "amount": 20,
+      "quantity": 2,
+      "userId": "4F_oe6Q",
+      "id": "L2lTVXI"
+    },
+    {
+      "name": "food",
+      "amount": 100,
+      "quantity": 5,
+      "userId": "ULlfmwM",
+      "id": "-K3LCFq"
+    },
+    {
+      "name": "clothes",
+      "amount": 500,
+      "quantity": 2,
+      "userId": "ULlfmwM",
+      "id": "oiakI_W"
+    },
+    {
+      "name": "food",
+      "amount": 100,
+      "quantity": 5,
+      "userId": "ULlfmwM",
+      "id": "Miy_KoA"
+    },
+    {
+      "name": "clothes",
+      "amount": 500,
+      "quantity": 2,
+      "userId": "ULlfmwM",
+      "id": "DUmjsV5"
+    }
+  ]
+}
