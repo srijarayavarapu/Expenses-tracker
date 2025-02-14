@@ -1,0 +1,60 @@
+.app-container {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+  }
+  
+  .nav-links button {
+    margin: 0 5px;
+    padding: 5px 10px;
+    border: none;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+  }
+  
+  .nav-links button:hover {
+    background-color: black;
+    color: white;
+  }
+  
+  .auth-form {
+    margin: 20px auto;
+    max-width: 300px;
+    text-align: left;
+  }
+  
+  .auth-form input {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  .auth-form button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .auth-form button:hover {
+    background-color: black;
+  }
+  
+  .error {
+    color: red;
+    font-size: 14px;
+  }
+  
